@@ -21,3 +21,7 @@ This is a simple Kanban Board web application designed to help users organize th
 - Lists listen for drag events allowing tasks to be dropped and appended to the new list.
 - Users can add new tasks using the input form; new tasks are automatically added to the "To Do" list and made draggable.
 - The layout arranges the lists in a row on desktops, and stacks them vertically on smaller screens.
+
+<div align="center">
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-drag-and-drop/blob/main/drag-and-drop.png?raw=true" alt="Drag and drop Preview" width="400"/> 
+</div>
